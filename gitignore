@@ -1,0 +1,10 @@
+# Maxfiy ma'lumotlar (token)
+.env
+
+# Ma'lumotlar bazasi
+*.db
+
+# Python
+venv/
+__pycache__/
+*.pyc
